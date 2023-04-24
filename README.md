@@ -9,7 +9,7 @@
 
 - 💬 Talk about **Robotics, Automation, IoT, Machine Learning, AI, Computer Vision** @ _www.fiedge.in_
 
-- 📫 Business inquiries **Firoj.Bakhshi@gmail.com**
+- 📫 Business inquiries **_Firoj.Bakhshi@gmail.com_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
