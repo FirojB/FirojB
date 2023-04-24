@@ -7,7 +7,7 @@
 
 - 📷 I post videos and tutorials on <a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firojfab" height="20" width="30" /></a> (Currently channel is down)
 
-- 💬 Talk about **Robotics, Automation, IoT, Machine Learning, AI, Computer Vision** @ www.fiedge.in
+- 💬 Talk about **Robotics, Automation, IoT, Machine Learning, AI, Computer Vision** @ _www.fiedge.in_
 
 - 📫 Business inquiries **Firoj.Bakhshi@gmail.com**
 
